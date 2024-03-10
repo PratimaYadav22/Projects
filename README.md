@@ -1,4 +1,4 @@
-# Projects
+# LLMtoSQLText
 
 1) install anaconda
 2) create venv using below command.
